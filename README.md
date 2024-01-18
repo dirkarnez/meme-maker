@@ -1,5 +1,7 @@
 [meme-maker](https://dirkarnez.github.io/meme-maker)
 ====================================================
+### TODOs
+- [ ] decoupling canvas, by using [dirkarnez/image-js-playground](https://github.com/dirkarnez/image-js-playground)
 ### Using
 - [fabricjs/fabric.js: Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser](https://github.com/fabricjs/fabric.js)
   - Examples
